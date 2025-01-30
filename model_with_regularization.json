@@ -1,0 +1,1 @@
+{"weights": [[0.6641223330377547], [1.1094393205875537]], "bias": [[3.634969762977517]], "hyperparameters": {"batch_size": 32, "regularization": 0.001, "max_epochs": 100, "patience": 3, "learning_rate": 0.01}}
